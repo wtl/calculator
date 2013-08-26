@@ -1,6 +1,8 @@
 {
   "name": "Convenient calculator",
   "description": "A handy calculator",
+  "orientation": ["landscape"],
+  "fullscreen": "false",
   "icons": {
     "30": "icons/firefoxos/icon30.png",
     "60": "icons/firefoxos/icon60.png",
